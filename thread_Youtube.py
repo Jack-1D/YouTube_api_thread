@@ -97,6 +97,7 @@ class YoutubeSpider():
         }
         print(info)
         info_list.append(info)
+        return
         # return info
 
 if __name__ == "__main__":
